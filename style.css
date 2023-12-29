@@ -1,0 +1,45 @@
+body {
+  font-family: "Dosis", sans-serif;
+}
+
+a {
+  color: orange;
+}
+a:hover {
+  color: black;
+}
+
+#webflow {
+  padding-top: 80px;
+}
+#webflow .box {
+  border-radius: 20px;
+  width: 220px;
+  padding: 20px 25px;
+  background: linear-gradient(0deg, rgb(34, 193, 195) 0%, rgb(253, 187, 45) 100%);
+}
+#webflow .box input {
+  border-radius: 15px;
+  width: 170px;
+  padding: 12px 0;
+  margin: 20px 0;
+}
+#webflow .box h1 {
+  font-size: 35px;
+  color: white;
+}
+#webflow .btn {
+  background: white;
+  border-radius: 20px;
+  padding: 5px 20px;
+}
+#webflow .list {
+  margin-top: 30px;
+}
+#webflow .list h3 {
+  border: 1px solid #102ca8;
+  padding: 10px 0;
+  margin: 10px 0;
+  width: 160px;
+  border-radius: 20px;
+}/*# sourceMappingURL=style.css.map */
